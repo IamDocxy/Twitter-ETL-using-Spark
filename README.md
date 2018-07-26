@@ -1,2 +1,2 @@
 # Twitter-ETL-using-Spark
-Transformed Twitter unstructured data in JSON format into a structured tabular format using Spark Dataframes in Databricks community cluster and stored the data in parquet format.
+Extracted and transformed Twitter unstructured data in JSON format into a structured tabular format using Spark Dataframes and stored the data in parquet format in AWS S3 bucket for analyzing with Athena and Tableau.
